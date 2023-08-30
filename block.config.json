@@ -1,0 +1,22 @@
+{
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/30Aug.git",
+    "ssh": "git@github.com:grgshiji/30Aug.git",
+    "branch": "block_removeTodo"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "npm run build",
+  "postPull": "npm i",
+  "name": "removeTodo",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "neyhY9SFQXETYyfurfvfk",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "xQCW_aH_-b44Kyr1zJ2fA"
+  ]
+}
