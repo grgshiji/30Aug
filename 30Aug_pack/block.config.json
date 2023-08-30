@@ -3,8 +3,8 @@
   "name": "30Aug_pack",
   "type": "function",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/30Aug.git",
+    "ssh": "git@github.com:grgshiji/30Aug.git",
     "branch": "block_30Aug_pack"
   },
   "parentBlockIDs": [
