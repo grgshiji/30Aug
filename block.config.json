@@ -1,0 +1,22 @@
+{
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/30Aug.git",
+    "ssh": "git@github.com:grgshiji/30Aug.git",
+    "branch": "block_listTodos"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "npm run build",
+  "postPull": "npm i",
+  "name": "listTodos",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "jtVhIFgmGdva4v1vs0hPx",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "xQCW_aH_-b44Kyr1zJ2fA"
+  ]
+}
