@@ -8,31 +8,49 @@
   },
   "dependencies": {
     "addTodo": {
-      "directory": "addTodo"
+      "directory": "addTodo",
+      "versionId": "Mc6mWVsXHrHUosltjSSRu",
+      "version": "0.0.1"
     },
     "removeTodo": {
-      "directory": "removeTodo"
+      "directory": "removeTodo",
+      "versionId": "OiyKz8kxqY1Jd21mWK3tx",
+      "version": "0.0.1"
     },
     "listTodos": {
-      "directory": "listTodos"
+      "directory": "listTodos",
+      "versionId": "WVUe35G51Y_raDpZ7Opso",
+      "version": "0.0.1"
     },
     "todoInput": {
-      "directory": "todoInput"
+      "directory": "todoInput",
+      "versionId": "PxPVbza0v2O9WVewrFE8a",
+      "version": "0.0.1"
     },
     "todoItem": {
-      "directory": "todoItem"
+      "directory": "todoItem",
+      "versionId": "pYkbm1tPx2pj50GS6ZdJu",
+      "version": "0.0.1"
     },
     "todoContainer": {
-      "directory": "todoContainer"
+      "directory": "todoContainer",
+      "versionId": "Y20_ZWvbPNDArk4FKagU6",
+      "version": "0.0.1"
     },
     "30Aug_pack": {
-      "directory": "30Aug_pack"
+      "directory": "30Aug_pack",
+      "versionId": "_rUGA0TIaBSm4RGeY3cts",
+      "version": "0.0.1"
     },
     "30Aug_fun": {
-      "directory": "30Aug_fun"
+      "directory": "30Aug_fun",
+      "versionId": "No2zbT3NTOhNWRTE-tvTv",
+      "version": "0.0.1"
     },
     "pack_30Aug": {
-      "directory": "pack_30Aug"
+      "directory": "pack_30Aug",
+      "versionId": "aAKCoR2yyLOVA3PDMydZZ",
+      "version": "0.0.1"
     }
   },
   "blockId": "xQCW_aH_-b44Kyr1zJ2fA",
@@ -41,5 +59,7 @@
   "supportedAppblockVersions": [
     "1.0.0"
   ],
-  "repoType": "mono"
+  "repoType": "mono",
+  "version": "0.0.1",
+  "versionId": "baCopACM5ahGlC7NWdo9h"
 }
